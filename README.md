@@ -1,4 +1,4 @@
-# Reiforcement Learning for Nonlinear-Control
+# Reinforcement Learning for Nonlinear-Control
 # Control of a nonlinear liquid level system using a new artificial neural network based reinforcement learning approach
 
 Base Paper: 
